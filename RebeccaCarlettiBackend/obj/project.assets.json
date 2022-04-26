@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SITI WEB\\RebeccaCarletti\\RebeccaCarlettiBackend\\RebeccaCarlettiBackend.csproj",
+      "projectUniqueName": "E:\\SITI WEB\\Carletti\\RebeccaCarlettiBackend\\RebeccaCarlettiBackend.csproj",
       "projectName": "RebeccaCarlettiBackend",
-      "projectPath": "E:\\SITI WEB\\RebeccaCarletti\\RebeccaCarlettiBackend\\RebeccaCarlettiBackend.csproj",
+      "projectPath": "E:\\SITI WEB\\Carletti\\RebeccaCarlettiBackend\\RebeccaCarlettiBackend.csproj",
       "packagesPath": "C:\\Users\\Diocleziano\\.nuget\\packages\\",
-      "outputPath": "E:\\SITI WEB\\RebeccaCarletti\\RebeccaCarlettiBackend\\obj\\",
+      "outputPath": "E:\\SITI WEB\\Carletti\\RebeccaCarlettiBackend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,53 @@
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+.navbar-pink {
+  background-color: #f2b8f9;
+}
+
+.logo-image {
+  width: 100px;
+  height: 100px;
+
+}
+
+.logo {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+
+ul > li > a {
+  font-family: orange-juice;
+  font-size: 30px;
+}
+
+  ul > li > a:hover {
+    font-family: orange-juice;
+    font-size: 30px;
+    color: deeppink;
+  }
+
+li > a.active {
+  font-size: 30px;
+  font-style: italic;
+  border-radius: 10px;
+  color: deeppink;
+}

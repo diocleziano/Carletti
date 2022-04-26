@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J8AFt7Msaf+j5EFp4+X+GV+efuDahI4k9XqqcHWgB/oeK6h1ewOxeGNc84sjag7U8Qkcrm6B3ysSsFs4fV867A==",
+  "dgSpecHash": "1kQcS0lUfNbMerxwADHeZ6jW16JtYfBuube7xYGGFwV65qdAmwd9hSpKaZp0auPMQg8cljKRSiHqzWL0hYEj5g==",
   "success": true,
-  "projectFilePath": "E:\\SITI WEB\\RebeccaCarletti\\RebeccaCarlettiBackend\\RebeccaCarlettiBackend.csproj",
+  "projectFilePath": "E:\\SITI WEB\\Carletti\\RebeccaCarlettiBackend\\RebeccaCarlettiBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diocleziano\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Diocleziano\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
